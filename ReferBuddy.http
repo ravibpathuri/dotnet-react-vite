@@ -1,0 +1,6 @@
+@ReferBuddy_HostAddress = http://localhost:5193
+
+GET {{ReferBuddy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
